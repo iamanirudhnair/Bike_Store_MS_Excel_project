@@ -2,6 +2,8 @@
 
 This project is a comprehensive guide for building a Bike Store management system using Microsoft Excel, based on a tutorial by AlexTheAnalyst. It covers a variety of essential Excel functions and techniques, from data cleaning to dashboard creation, all aimed at helping users build an organized, functional, and visually appealing Excel model for managing a bike store's data.
 
+![image_alt](https://github.com/iamanirudhnair/Bike_Store_MS_Excel_project/blob/main/Bike%20Sales%20Dashboard.png?raw=true)
+
 ## Project Overview
 
 In this project, we will go through the following major chapters to ensure the Bike Store dataset is properly cleaned, organized, analyzed, and visualized:
